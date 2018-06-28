@@ -1,2 +1,3 @@
-# alexa-mensa-zweibruecken
+# Alexa Mensa Zweibruecken
+
 An Amazon Alexa skill that tells you the menu of the canteen in Zweibruecken. 
