@@ -1,0 +1,31 @@
+{
+    "Montag": {
+        "meal_1": "Paniertes Hähnchenbrustfilet mit Bratkartoffeln, dazu Fingerkarotten in Rahm",
+        "meal_2": "Spaghetti \"Carbonara\" mit Schinken-Käsesoße dazu Salat",
+        "meal_3": "Spaghetti mit Käsesoße dazu Salat"
+    }
+,
+    "Dienstag": {
+        "meal_1": "Paniertes Schweineschnitzel \"Jäger Art\" mit Pommes frites und Salat",
+        "meal_2": "Cannelloni \"Ricotta-Spinat\" mit Tomatensoße und Käse dazu Salat",
+        "meal_3": ""
+    }
+,
+    "Mittwoch": {
+        "meal_1": "Kabeljaufilet mit Dijon-Senf-Soße, Gemüsereis und Salat",
+        "meal_2": "\"Bami Goreng\": Indonesisches Nudelgericht mit Putenstreifen dazu Salat",
+        "meal_3": "Indonesisches Nudelgericht mit Gemüse und Sojageschnetzeltem dazu Salat"
+    }
+,
+    "Donnerstag": {
+        "meal_1": "Rindergeschnetzeltes mit Cognac-Pfeffersoße und Champignons, dazu Spätzle und Salat",
+        "meal_2": "Hausgemachter Kaiserschmarrn mit Rosinen dazu Vanillesoße oder Apfelmus",
+        "meal_3": ""
+    }
+,
+    "Freitag": {
+        "meal_1": "Geflügelfrikadellen mit Paprikasoße, Salzkartoffeln und Erbsen-Karotten-Gemüse",
+        "meal_2": "Tortellini mit Käsefüllung Tomaten-Mozzarellasoße und Salat",
+        "meal_3": ""
+    }
+}
