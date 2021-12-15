@@ -6,28 +6,27 @@ Mensa Zweibrücken ließt dir den Speiseplan der Mensa Zweibrücken vor.
 
 # Detailed Description
 
-Jede Anfrage benötigt die Angabe des gewünschten Tages. Du kannst entweder nach einem Wochentag fragen (Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag) oder nach Heute, Morgen, Übermorgen, Gestern.
+Each request requires the specification of the desired day. You can either ask for a day of the week (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday) or for today, tomorrow, the day after tomorrow, yesterday.
 
-Wenn du kein genauen Tag nennst, bekommst du den Speiseplan von heute.
+If you don't specify an exact day, you will get today's menu.
 
-Der Skill funktioniert nicht oder du hast Probleme?
-Wir freuen uns über eine kurze Mail an stwe0023@stud.hs-kl.de
+The skill does not work or you have problems?
+We will be glad if you send us a short mail to stwe0023@stud.hs-kl.de.
 
-Nur mit einer schlechten Bewertung hier im Store hilfst du weder dir, noch uns den Skill besser zu machen! :)
+Only with a bad rating here in the store you help neither you nor us to make the skill better! :)
 
-Der Code dieses Skills ist Open-Source und ist unter GitHub eingestellt. Jeder ist herzlich willkommmen, sich an der Entwicklung zu beteiligen!
+The code of this skill is open source and is posted on GitHub. Everyone is welcome to participate in the development!
 
 https://github.com/Stephweihrauch/alexa-mensa-zweibruecken
 
-"Alexa, frage Mensa Zweibrücken was gibt es heute zu essen?"
-"Alexa, frage Mensa Zweibrücken was gibt es morgen zu essen?"
-"Alexa, frage Mensa Zweibrücken was gibt es übermorgen zu essen?"
-"Alexa, frage Mensa Zweibrücken was gab es gestern zu essen?"
-"Alexa, frage Mensa Zweibrücken was gibt es am Montag zu essen?"
-"Alexa, frage Mensa Zweibrücken was gab es am Montag zu essen?"
-"Alexa, frage Mensa Zweibrücken was gibt es am Dienstag zu essen?"
-"Alexa, frage Mensa Zweibrücken was gab es am Dienstag zu essen?"
-
+"Alexa, ask Mensa Zweibrücken what's for dinner today?"
+"Alexa, ask Mensa Zweibrücken what's for lunch tomorrow?"
+"Alexa, ask Mensa Zweibrücken what's for lunch the day after tomorrow?"
+"Alexa, ask Mensa Zweibrücken what was for lunch yesterday?"
+"Alexa, ask Mensa Zweibrücken what's for dinner on Monday?"
+"Alexa, ask Mensa Zweibrücken what they had to eat on Monday?"
+"Alexa, ask Mensa Zweibrücken what's for lunch on Tuesday?"
+"Alexa, ask Mensa Zweibrücken what was to eat on Tuesday?"
 
 # Category
 
