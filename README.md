@@ -20,12 +20,19 @@ The code of this skill is open source and is posted on GitHub. Everyone is welco
 https://github.com/Stephweihrauch/alexa-mensa-zweibruecken
 
 "Alexa, ask Mensa Zweibrücken what's for dinner today?"
+
 "Alexa, ask Mensa Zweibrücken what's for lunch tomorrow?"
+
 "Alexa, ask Mensa Zweibrücken what's for lunch the day after tomorrow?"
+
 "Alexa, ask Mensa Zweibrücken what was for lunch yesterday?"
+
 "Alexa, ask Mensa Zweibrücken what's for dinner on Monday?"
+
 "Alexa, ask Mensa Zweibrücken what they had to eat on Monday?"
+
 "Alexa, ask Mensa Zweibrücken what's for lunch on Tuesday?"
+
 "Alexa, ask Mensa Zweibrücken what was to eat on Tuesday?"
 
 # Category
